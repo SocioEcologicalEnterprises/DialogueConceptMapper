@@ -10,3 +10,4 @@ Graphs can then be created by importing from Neo4J into Gephi using Gephi's (not
 
 See the [front page of the Wiki](https://github.com/SocioEcologicalEnterprises/DialogueConceptMapper/wiki) for a development road map and some pseudocode about how to implement the logic of version 0.2 (which is intended to emphasise the most commonly mentioned concepts).
 
+The main parts of the road map have been broken out into a few Epic Stories in the [Issues List](https://github.com/SocioEcologicalEnterprises/DialogueConceptMapper/issues), too.
